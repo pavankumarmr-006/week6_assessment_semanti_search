@@ -1,0 +1,15 @@
+sentence-transformers
+numpy
+scikit-learn
+pandas
+langchain-text-splitters
+pymupdf
+python-docx
+qdrant-client
+fastapi
+uvicorn
+python-multipart
+pytest
+httpx
+faiss-cpu
+openai

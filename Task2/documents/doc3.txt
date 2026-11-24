@@ -1,0 +1,5 @@
+Company Security Policy
+
+Employees must protect company information.
+Passwords must be kept confidential.
+Company computers must be used safely.
